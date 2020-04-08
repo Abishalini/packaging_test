@@ -1,3 +1,3 @@
-def joke():
-    return (u'Wenn ist das Nunst\u00fcck git und Slotermeyer? Ja! ... '
-            u'Beiherhund das Oder die Flipperwaldt gersput.')
+from .detect_peaks import *
+from .signal_analysis_utils import *
+from .sk_utils import *
